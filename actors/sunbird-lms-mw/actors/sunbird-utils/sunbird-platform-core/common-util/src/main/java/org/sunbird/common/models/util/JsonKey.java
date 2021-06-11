@@ -378,7 +378,7 @@ public final class JsonKey {
   public static final String VERIFY_EMAIL_LINK = "verify_email_link";
   public static final String LINK = "link";
   public static final String SET_PW_LINK = "setPasswordLink";
-  public static final String SUNBIRD_URL_SHORTNER_ENABLE = false;
+  public static final String SUNBIRD_URL_SHORTNER_ENABLE = "false";
   public static final String USER_PROFILE_CONFIG = "userProfileConfig";
   public static final String PUBLIC_FIELDS = "publicFields";
   public static final String PROFILE_USERTYPE = "profileUserType";
