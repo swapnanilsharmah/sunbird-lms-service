@@ -273,12 +273,12 @@ public final class JsonKey {
   public static final String SUNBIRD_PG_PORT = "sunbird_pg_port";
   public static final String SUNBIRD_PG_USER = "sunbird_pg_user";
   public static final String SUNBIRD_QUARTZ_MODE = "sunbird_quartz_mode";
-  public static final String SUNBIRD_SSO_CLIENT_ID = "sunbird_sso_client_id";
+  public static final String SUNBIRD_SSO_CLIENT_ID = "admin-cli";
   public static final String SUNBIRD_SSO_CLIENT_SECRET = "sunbird_sso_client_secret";
-  public static final String SUNBIRD_SSO_PASSWORD = "sunbird_sso_password";
-  public static final String SUNBIRD_SSO_RELAM = "sunbird_sso_realm";
-  public static final String SUNBIRD_SSO_URL = "sunbird_sso_url";
-  public static final String SUNBIRD_SSO_USERNAME = "sunbird_sso_username";
+  public static final String SUNBIRD_SSO_PASSWORD = "admin";
+  public static final String SUNBIRD_SSO_RELAM = "Sunbird";
+  public static final String SUNBIRD_SSO_URL = "http://apgsws.in/auth";
+  public static final String SUNBIRD_SSO_USERNAME = "admin";
   public static final String SUNBIRD_FRAMEWORK_READ_API = "sunbird_framework_read_api";
   public static final String SUNBIRD_USERNAME_NUM_DIGITS = "sunbird_username_num_digits";
   public static final String SYSTEM = "system";
@@ -378,7 +378,7 @@ public final class JsonKey {
   public static final String VERIFY_EMAIL_LINK = "verify_email_link";
   public static final String LINK = "link";
   public static final String SET_PW_LINK = "setPasswordLink";
-  public static final String SUNBIRD_URL_SHORTNER_ENABLE = "sunbird_url_shortner_enable";
+  public static final String SUNBIRD_URL_SHORTNER_ENABLE = false;
   public static final String USER_PROFILE_CONFIG = "userProfileConfig";
   public static final String PUBLIC_FIELDS = "publicFields";
   public static final String PROFILE_USERTYPE = "profileUserType";
